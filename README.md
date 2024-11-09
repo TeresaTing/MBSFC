@@ -13,5 +13,5 @@ __MBSFC network structure：__
 
 
 __To cite this article:__ 
-Ting Tang, Shaopeng Liu, Xueliang Fu, Weihong Yan, Xiaoling Luo & Xin Pan (03 Oct 2024): MBSFC: hyperspectral image classification based on multibranch and spectral feature conversion, International Journal of Remote Sensing, DOI:
+Ting Tang, Shaopeng Liu, Xueliang Fu, Weihong Yan, Xiaoling Luo & Xin Pan (03 Oct 2024): MBSFC: hyperspectral image classification based on multi-branch and spectral feature conversion, International Journal of Remote Sensing, DOI:
 10.1080/01431161.2024.2398820
